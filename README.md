@@ -2,4 +2,8 @@
 
 This is simple readme file
 
-This may be a problem
+Trying Stash
+
+Trying Reset now
+
+adding some more to staging area
